@@ -1,0 +1,14 @@
+body{
+    background-image: url(image_2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: #767676;
+   }
+   h4{
+       color: #767676;
+   }
+   p{
+       color: #FFFFFF;
+   }
